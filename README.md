@@ -1,13 +1,14 @@
 # My Diary a Online Notes Based on Firebase </h5>
 ## A User can store their all notes in his online account
 
-##  Features Implemented: </h1>
+##  Features Implemented: </h5>
 ## Firebase Database
 ## Fiebase Authintications
 ## Push Notification
 ## Google Admob
 ## Sign Up Using Email and password
 ## Login Using Email and password
+<img src="https://github.com/nhbsohel2/My-Diary/blob/master/login.png" width="500" height="600">
 ## Email Verificaiton
 ## Login Using Otp(Added a country code picker for all country) Verification
 ## Password Reset Using Email
