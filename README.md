@@ -1,9 +1,9 @@
 # My Diary is  a Android Application to save notes Online Based on Firebase </h5>
-## A User can store their all notes in his online account.It will keep someone notes safe in case of device lost or software deletion.
+## A User can store their all notes in his online account.It will keep someone notes safe in case of device lost or software deletion.Realtime weather updates as a additional feature.
 
 #  Features Implemented: </h5>
 
-
+##Realtime weather update from Api
 ## Firebase Database
 ## Fiebase Authentications
 ## Push Notification
