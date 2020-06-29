@@ -3,7 +3,7 @@
 
 #  Features Implemented: </h5>
 
-##Realtime weather update from Api
+## Realtime weather update from Api
 ## Firebase Database
 ## Fiebase Authentications
 ## Push Notification
